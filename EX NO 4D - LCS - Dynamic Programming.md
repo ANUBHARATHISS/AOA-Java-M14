@@ -1,6 +1,6 @@
 
 # EX 4D Longest Common SubSequence - Dynamic Programming.
-## DATE:
+## DATE:  01-09-2026 
 ## AIM:
 To write a Java program to for given constraints.
 Given two strings text1 and text2, return the length of their longest common subsequence. If there is no common subsequence, return 0.
@@ -31,6 +31,11 @@ text1 and text2 consist of only lowercase English characters.
 
 
 ## Program:
+```
+Developed by : ANUBHARATHI SS
+Register No : 212223040017
+
+```
 ```
 
 import java.util.Scanner;
