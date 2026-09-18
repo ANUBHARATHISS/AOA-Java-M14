@@ -1,6 +1,6 @@
 
 # EX 4B Frog Jump - Dynamic Programming.
-## DATE:
+## DATE:  01-09-2026 
 ## AIM:
 To write a Java program to for given constraints.
 A Frog Jump 1 or 2 steps at a time.
@@ -27,6 +27,11 @@ A single integer – number of distinct ways to reach step n.
 5.Output dp[n], which represents the total number of ways the frog can reach the top.
 
 ## Program:
+```
+Developed by : ANUBHARATHI SS
+Register No : 212223040017
+
+```
 ```
 import java.util.Scanner;
 
